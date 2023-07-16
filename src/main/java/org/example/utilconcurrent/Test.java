@@ -12,7 +12,9 @@ public class Test {
 //    execute();
 //    executeTask();
     start();
-    
+
+//    https://www.baeldung.com/java-blocking-queue
+//    https://www.baeldung.com/java-delay-queue
   }
 
   private static void execute() {
