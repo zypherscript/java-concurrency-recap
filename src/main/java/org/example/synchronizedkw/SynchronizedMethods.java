@@ -1,4 +1,4 @@
-package org.example.utilconcurrent;
+package org.example.synchronizedkw;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

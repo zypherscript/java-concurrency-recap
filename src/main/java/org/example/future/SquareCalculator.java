@@ -1,4 +1,4 @@
-package org.example.utilconcurrent;
+package org.example.future;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

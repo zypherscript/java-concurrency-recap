@@ -1,4 +1,4 @@
-package org.example.utilconcurrent;
+package org.example.volatilekw;
 
 public class SharedObject {
 
