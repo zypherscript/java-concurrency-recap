@@ -55,6 +55,7 @@ public class ExecutorServiceTest {
       }
     } catch (InterruptedException e) {
       executorService.shutdownNow();
+      Thread.currentThread().interrupt();
     }
   }
 }
